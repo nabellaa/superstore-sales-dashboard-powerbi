@@ -1,6 +1,6 @@
 # Retail Sales Executive Dashboard
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](superstore.png)
 
 ## Overview
