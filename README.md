@@ -1,5 +1,8 @@
 # Retail Sales Executive Dashboard
 
+## 🖼 Dashboard Preview
+![Dashboard Preview](superstore.png)
+
 ## Overview
 Interactive dashboard built in Power BI to help executives monitor retail sales performance and make informed business decisions.
 
