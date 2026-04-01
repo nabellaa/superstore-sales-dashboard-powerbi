@@ -44,9 +44,6 @@ It provides actionable insights into sales, profitability, and customer behavior
 - Sales by customer segment  
 - Top 10 customers by revenue  
 
-### Operations
-- Shipping performance metrics
-
 ## Insights
 - Technology category generates the highest profit  
 - High discounts often reduce profitability  
